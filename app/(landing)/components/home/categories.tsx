@@ -35,9 +35,9 @@ const CategoriesSection = () => {
       <div className="flex justify-between">
         <h2 className="font-bold text-2xl">Browse By Categories</h2>
 
-        <Link href="#" className="flex gep-2 text-primary font-medium">
+        <Link href="#" className="flex gap-2 text-primary font-medium">
           <span className="self-center">See All Categories</span>
-          <FiArrowRight className="slef-center" />
+          <FiArrowRight className="self-center" />
         </Link>
       </div>
 
